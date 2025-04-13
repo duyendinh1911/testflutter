@@ -2,11 +2,11 @@
   "users": [
               {
                 "id": 1,
-                "name": "Nguyễn Văn An",
-                "email": "nguyenvanan@gmail.com",
-                "phone": "0912345678",
+                "name": "Nguyễn Cao Đạt",
+                "email": "caodatnguyen880@gmail.com",
+                "phone": "0836888628",
                 "avatar": "https://example.com/avatars/an.jpg",
-                "dateOfBirth": "1990-05-15T00:00:00.000Z"
+                "dateOfBirth": "2004-09-26T00:00:00.000Z"
               },
               {
                 "id": 2,
